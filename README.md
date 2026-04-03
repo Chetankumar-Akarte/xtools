@@ -1,7 +1,7 @@
 # XTools
 
 [![pub package](https://img.shields.io/pub/v/xtools.svg)](https://pub.dev/packages/xtools)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 [![Flutter](https://img.shields.io/badge/Flutter-3.x-blue.svg)](https://flutter.dev)
 [![Dart](https://img.shields.io/badge/Dart-3.x-blue.svg)](https://dart.dev)
 
