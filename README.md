@@ -653,9 +653,9 @@ MIT License - see LICENSE file for details
 ## Support
 
 For issues, questions, or suggestions:
-- 📧 Email: support@xtools.dev
-- 🐛 GitHub Issues: [GitHub](https://github.com/xtools/xtools)
-- 💬 Discussions: [Discussions](https://github.com/xtools/xtools/discussions)
+- 📧 Email: chetan.akarte@gmail.com
+- 🐛 GitHub Issues: [GitHub](https://github.com/Chetankumar-Akarte/xtools)
+- 💬 Discussions: [Discussions](https://github.com/Chetankumar-Akarte/xtools/discussions)
 
 ## Changelog
 
