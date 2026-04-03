@@ -89,6 +89,7 @@ class _XToolsDemoAppState extends State<XToolsDemoApp> {
       theme: themed,
       darkTheme: darkThemed,
       themeMode: _themeMode,
+      debugShowCheckedModeBanner: false,
       home: _DemoScreen(
         useNordTheme: _useNordTheme,
         themeMode: _themeMode,
